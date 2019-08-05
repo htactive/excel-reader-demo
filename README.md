@@ -1,6 +1,9 @@
 # excel-reader-demo
 Demo đoạn code sử dụng xlsx library để đọc file excel
 
+library: https://github.com/SheetJS/js-xlsx
+license: Apache2.0
+
 ## Code demo
 
 ```
